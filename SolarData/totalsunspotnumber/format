@@ -1,0 +1,23 @@
+Daily total sunspot number (1818-now):
+Old files: dayssn.dat, dayssnV0.dat, dayssn_import.dat,ISSN_D_tot.csv
+replaced by: 
+SN_d_tot_V2.0.txt (column format), SN_d_tot_V2.0.csv (CSV format)
+Contents: year, month, day, decimal year, SNvalue , SNerror, Nb observations
+
+Monthly mean total sunspot number (1749-now):
+Old files: monthssn.dat, ISSN_M_tot.csv
+replaced by: 
+SN_m_tot_V2.0.txt (column format), SN_m_tot_V2.0.csv (CSV format)
+Contents: year, month, decimal year, SNvalue , SNerror, Nb observations
+
+13-month smoothed monthly total sunspot number (1749-now):
+Old files: monthssn.dat, ISSN_M_tot.csv
+New file: 
+SN_ms_tot_V2.0.txt (column format), SN_ms_tot_V2.0.csv (CSV format)
+Contents: year, month, decimal year, SNvalue , SNerror, Nb observations
+
+Yearly mean total sunspot number (1700-now):
+Old files: yearssn.dat, ISSN_Y_tot.csv
+replaced by: 
+SN_y_tot_V2.0.txt (column format), SN_y_tot_V2.0.csv (CSV format)
+Contents: decimal year, SNvalue , SNerror, Nb observations

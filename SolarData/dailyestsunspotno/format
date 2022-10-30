@@ -1,0 +1,7 @@
+Yearly mean total sunspot number (1610-now):
+New file: GN_y_tot_V2.0.txt, GN_y_tot_V2.0.csv (CSV format)
+Contents: decimal year, GNvalue , GNerror, Nb observations
+
+Our other data products (EISN: daily estimated sunspot number, 12-month forecasts) have been adapted to match the scale of the main sunspot time series, but the file names and formats remain unchanged.
+
+Next to the Sunspot Number data, we now also distribute the Group Number time series, which extends futher back to 1610. A new dedicated section includes the original series (Hoyt and Schatten 1998) and new revised versions. As these are research products, those series cover a fixed time interval, and are not updated and extended on a monthly basis like the Sunspot Number.
